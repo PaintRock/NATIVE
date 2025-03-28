@@ -3,7 +3,7 @@ Following the tutorial https://reactnative.dev/docs/environment-setup
 
 This is my introduction to React Native, working through the tutorial and setup, fresh before completing the Atlas tasks.
 
-<details><summary>Start UP</summary>
+<details><summary>Start UP and Hiccups</summary>
 
 ###Step 1
 
